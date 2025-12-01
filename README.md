@@ -27,7 +27,8 @@ It displays a message when a user lands on a page that doesn't exist,along with 
 
 1.Clone the repository.
 
-``` git clone<your-repo-link>
+```
+git clone <your-repo-link>
 ```
 
 2. Open the index.html file in any browser.
